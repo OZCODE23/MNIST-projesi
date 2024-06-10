@@ -1,2 +1,5 @@
 tensorflow==2.16.1
-streamlit_drawable_canvas
+streamlit
+numpy
+Pillow
+streamlit-drawable-canvas
