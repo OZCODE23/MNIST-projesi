@@ -77,8 +77,8 @@ with col2:
         stroke_color="#000000",  # Çizim rengi
         background_color="#FFFFFF",  # Arka plan rengi
         update_streamlit=True,
-        height=560,
-        width=560,
+        height=476,
+        width=476,
         drawing_mode="freedraw",
         key="canvas",
     )
